@@ -9,5 +9,5 @@ cat bloatwares.txt | xargs adb shell pm uninstall -k --user 0
 ```
 
 If you are interested, you can also check [my
-essay](https://rugu.dev/debloat-with-adb) on using `adb` for debloating your
-phone.
+essay](https://rugu.dev/en/blog/debloat-with-adb) on using `adb` for debloating
+your phone.
